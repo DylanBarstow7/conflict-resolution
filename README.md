@@ -1,2 +1,3 @@
 # conflict-resolution
-Activity done on 5/11/21
+
+This is text from VS Code. "This is text from VS Code"
