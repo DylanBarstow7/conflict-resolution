@@ -1,2 +1,3 @@
 # conflict-resolution
-Activity done on 5/11/21
+
+This text is from github. This is on our remote repository
